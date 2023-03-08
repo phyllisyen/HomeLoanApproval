@@ -1,5 +1,5 @@
 # Home Loan Approval Analysis
-## BC2407 Analytics I AY22/23 Individual Assessment
+## BC2406 Analytics I AY22/23 Individual Assessment
 Grade: A
 
 ### Project Background
