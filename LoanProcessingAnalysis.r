@@ -1,3 +1,9 @@
+install.packages("data.table")
+install.packages("rpart.plot")    
+install.packages("caTools") 
+install.packages("ggplot2")
+install.packages("tidyr")
+
 library(data.table)
 library(ggplot2)
 library(rpart)
